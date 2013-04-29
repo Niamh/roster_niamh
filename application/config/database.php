@@ -49,9 +49,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'tunnel.pagodabox.com:3306';
-$db['default']['username'] = 'lelia';
-$db['default']['password'] = '3yudGzHs';
-$db['default']['database'] = 'rostersystem';
+$db['default']['username'] = 'kaitlin';
+$db['default']['password'] = 'S7MvOteW';
+$db['default']['database'] = 'rosterdb';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
